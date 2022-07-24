@@ -1,2 +1,2 @@
-# Support_For_Aluminum_Sonda_Handle
+# Support for Aluminum Sonda handle.
 Support for aluminum sonda handle. For the boat.
